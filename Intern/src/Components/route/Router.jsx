@@ -9,7 +9,7 @@ const Router = () => {
     const router = createBrowserRouter([
         {
             path:'/',
-            element:<div className='flex'> <Left_sec/> <Home/></div>,
+            element:<div className='flex'> <Left_sec/> <Dashboard/></div>,
 
         },
         {
