@@ -1,0 +1,185 @@
+.sec1 {
+  width: 1300px;
+
+  background: #ecf0f1;
+}
+.ord {
+  height: 30px;
+  gap: 500px;
+}
+
+.ord .h1 {
+  width: 118px;
+  height: 30px;
+  font-size: 26px;
+  font-weight: 600;
+  margin-top: 50px;
+  margin-left: 50px;
+  line-height: 30.47px;
+  text-align: left;
+  color: #2c3e50;
+}
+.ord .h2 {
+  width: 189px;
+  height: 21px;
+  margin-top: -40px;
+  margin-left: 800px;
+  gap: 0px;
+  opacity: 0px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30.47px;
+  text-align: left;
+  color: #2c3e50;
+}
+.ord .h3 {
+  width: 150px;
+  display: flex;
+  height: 40px;
+  margin-top: -30px;
+  margin-left: 1050px;
+  gap: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 30.47px;
+  text-align: left;
+  color: #2c3e50;
+}
+
+.small{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 12px;
+    margin-top: -2px;
+    color:purple
+    
+}
+.search {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  height: 50px;
+  margin-top: 35px;
+  padding: 15px 729px 15px 50px;
+opacity: 0px;
+  background: #f3f5f5;
+}
+.search_input {
+  width: 406px;
+  height: 40px;
+  padding-top: 5px;
+  padding-left: 51px;
+  display: flex;
+  align-items: center;
+}
+.search img {
+  width: 21px;
+  height: 21px;
+  /* margin-top: -1px; */
+  margin-left: -1px;
+  gap: 0px;
+  opacity: 0px;
+}
+.search-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.search-icon {
+  position: absolute;
+  left: 10px; /* Adjust according to your design */
+  top: 50%;
+  transform: translateY(-50%);
+  height: 20px; /* Adjust size according to your image */
+  pointer-events: none; /* Ensure the icon doesn't block input interaction */
+}
+
+.search_input {
+  /* padding-left: 40px; Add padding to make space for the icon */
+  /* margin-left: 90px; */
+  width: 406px;
+  height: 40px;
+  border-radius: 8px;
+  background: #f8f8f8;
+  border: 1px lightblue;
+  font-family: Roboto Flex;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 18.75px;
+  text-align: left;
+}
+.meals{
+    width: 624px;
+height: 66px;
+display: flex;
+margin-top: 24px;
+margin-left: 51px;
+gap: 20px;
+opacity: 0px;
+}
+.Brft{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 170px;
+    height: 56px;
+    background: #F8F8F8;
+    margin-left: 5px;
+    border-radius: 5px;
+    margin-top: 5px; 
+
+}
+
+.Brft img{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    margin-bottom: 14px;
+    width: 25px;
+    height: 22.5px;
+    margin-top: 21.75px;
+    margin-left: 10px;
+    opacity: 0px;
+    
+}
+.br_h1{
+    font-weight: 600;
+    margin-left: 15px;
+    margin-top: 3px;
+   display: flex;
+   align-items: center ;
+   text-align: center;
+}
+.small2{
+    font-size: 12px;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+.Brft2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 170px;
+    height: 56px;
+    background: #F8F8F8;
+    margin-left: 5px;
+    border-radius: 5px;
+    margin-top: 5px; 
+
+}
+.Brft2 img{
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    margin-bottom: 14px;
+    width: 25px;
+    height: 22.5px;
+    margin-top: 21.75px;
+    margin-left: 10; 
+}

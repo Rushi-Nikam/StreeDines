@@ -1,0 +1,122 @@
+
+.section1{
+    /* margin-left: 305px; */
+    font-weight: 600;
+    background:  #ECF0F1;
+    width:  1270px;
+    height: 960px;
+    border-radius:25px ;
+}
+.head1{
+ font-size: 26px;
+ margin-top: 40px;
+margin-left: 60px;
+line-height: 30px;
+}
+.items{
+    margin-top: 45px;
+    margin-left: 55px;
+}
+.items li{
+ font-size: 16px;
+ list-style: none;
+ color: black;
+ 
+}
+.DashStyle1{
+    display: flex;
+width: 65px;
+height: 40px;
+border-radius: 8px;
+align-items: center;
+text-align: center;
+justify-content: center;
+    background-color:  #F8F8F8;
+    cursor: pointer;
+    
+}
+.DashStyle2{
+    display: flex;
+width: 120px;
+margin-left: 20px;
+height: 40px;
+border-radius: 8px;
+align-items: center;
+text-align: center;
+justify-content: center;
+    background-color:  #F8F8F8;
+
+    cursor: pointer;
+}
+
+.DashStyle3{
+    display: flex;
+width: 114px;
+margin-left: 20px;
+height: 40px;
+border-radius: 8px;
+align-items: center;
+text-align: center;
+justify-content: center;
+    background-color:  #F8F8F8;
+    cursor: pointer;
+}
+.DashStyle4{
+    display: flex;
+width: 114px;
+margin-left: 20px;
+height: 40px;
+border-radius: 8px;
+align-items: center;
+text-align: center;
+justify-content: center;
+    background-color:  #F8F8F8;
+    cursor: pointer;
+}
+.DashStyle5{
+    display: flex;
+width: 114px;
+margin-left: 20px;
+height: 40px;
+border-radius: 8px;
+align-items: center;
+text-align: center;
+justify-content: center;
+    background-color:  #F8F8F8;
+    cursor: pointer;
+}
+.DashStyle1:hover{
+    background-color:  #FFD700;
+    font-weight: 600;
+    
+}
+.DashStyle2:hover{
+    background-color:  #FFD700;
+    font-weight: 600;
+    
+}
+.DashStyle3:hover{
+    background-color:  #FFD700;
+    font-weight: 600;
+    
+}
+.DashStyle4:hover{
+    background-color:  #FFD700;
+    font-weight: 600;
+    
+}
+.DashStyle5:hover{
+    background-color:  #FFD700;
+    font-weight: 600;   
+    
+}
+.none{
+    text-decoration: none;
+}
+.familys{
+    font-family:"Roboto Flex", sans-serif;
+
+}
+.bold{
+    font-weight: 500;
+}

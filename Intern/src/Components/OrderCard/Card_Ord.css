@@ -1,0 +1,47 @@
+
+.Ord_sec_wrapper {
+    max-height: 800px; /* Adjust this value based on your card height */
+    overflow-y: auto; /* Vertical scrollbar */
+    position: relative;
+}
+
+.Ord_sec {
+    display: flex;
+    gap: 16px; /* Adjust the gap as needed */
+    overflow-x: hidden; /* Hide horizontal overflow */
+    padding-bottom: 10px; /* Space for the scrollbar */
+    width: 1400px;
+    height: 531px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+.Ord_sec_half {
+    margin-top: -50%; /* Adjust to show half of the section */
+}
+
+.Ord_sec::-webkit-scrollbar {
+    height: 8px; /* Height of the scrollbar */
+}
+
+.Ord_sec::-webkit-scrollbar-thumb {
+    background-color: #ccc; /* Scrollbar color */
+    border-radius: 4px;
+}
+
+.Ord_sec::-webkit-scrollbar-track {
+    background: #f8f8f8; /* Background of the scrollbar track */
+}
+
+.Ord_sec_wrapper::-webkit-scrollbar {
+    width: 8px; /* Width of the vertical scrollbar */
+}
+
+.Ord_sec_wrapper::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 4px;
+}
+
+.Ord_sec_wrapper::-webkit-scrollbar-track {
+    background: #f8f8f8;
+}

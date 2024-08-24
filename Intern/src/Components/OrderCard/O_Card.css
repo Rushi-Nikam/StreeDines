@@ -1,0 +1,401 @@
+.card_sect1 {
+    width: 434px;
+    height: 590px;
+    background: #f8f8f8;
+    border-radius: 15px;
+    margin-left: 5px;
+  }
+  
+  .TbStyle {
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+    font-size: 26px;
+    font-weight: 600;
+    background: #ffd700;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .token {
+    width: 81px;
+    height: 23px;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: #2c3e50;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+  }
+  
+  .head_Order {
+    width: 150px;
+    height: 19px;
+    margin-left: 85px;
+    margin-top: -20px;
+    font-family: "Roboto Flex", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18px;
+  }
+  
+  .Din {
+    width: 82px;
+    height: 23px;
+    margin-top: 20px;
+    margin-left: 85px;
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Roboto Flex;
+font-size: 12px;
+font-weight: 700;
+line-height: 14.06px;
+text-align: left;
+
+    background: #3772F080;
+    border-radius: 6px;
+  color: #2C3E50;
+
+  }
+  
+  .pending {
+    
+    font-size: 16px;
+    font-weight: 500;
+    width: 62px;
+    margin-left: 5px;
+    line-height: 18px;
+    width: 71px;
+height: 19px;
+font-family: Roboto Flex;
+color: #62696B;
+
+text-align: left;
+
+
+
+gap: 0px;
+opacity: 0px;
+
+  }
+  
+  .dot {
+    width: 5px;
+    height: 5px;
+    background-color: #e74c3c;
+    border-radius: 50%;
+  }
+  
+  .dopd {
+    display: flex;
+    align-items: center;
+    margin-left: 93px;
+  
+  margin-top: 10px;
+   
+       
+  }
+  
+  .jbtn{
+    justify-content: space-between;
+  }
+
+  .instruct{
+width: 404px;
+height: 19px;
+margin-top: 15px;
+margin-left: 1px;
+font-family: Roboto Flex;
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+text-align: left;
+gap:180px;
+  }
+  .item_v{
+    width: 404px;
+    height: 19px;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    gap:140px;
+    color: #2C3E5080;
+
+
+  }
+  .ins{
+    margin-left: 15px;
+  }
+  
+
+.ins_value{
+    width: 124px;
+height: 19px;
+
+color: #3772F0;
+cursor: pointer;
+
+}
+.item_value {
+    width: 404px;
+height: 19px;
+margin-top: 129px;
+margin-left: 20px;
+gap: 0px;
+opacity: 0px;
+}
+.pr_val{
+    width: 37px;
+    height: 19px;
+    margin-left: -10px;
+}
+.item_v1{
+    width: 404px;
+    height: 24px;
+    margin-top: 20px;
+    margin-left:10px;
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    gap:140px;
+    /* color: #2C3E5080; */
+
+  }
+  .item_v2{
+    width: 404px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left:15px;
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    gap:150px;
+    /* color: #2C3E5080; */
+  }
+  .Qty_2{
+    margin:0  -8px 0 12px;
+    
+  }
+.class{
+    width: 404px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left:1px;
+    font-family: Roboto Flex;
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+text-align: left;
+
+}
+
+.amount{
+    width: 96px;
+height: 19px;
+margin-left: 10px;
+font-family: Roboto Flex;
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+text-align: left;
+
+}
+.TQty{
+   
+    margin-right: 16px;
+}
+.price_t{
+    margin-left: -15px;
+    margin-right: 20px;
+}
+.item_v3{
+    width: 404px;
+    height: 24px;
+    margin-top: 20px;
+    margin-left:10px;
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    gap:140px;  
+}
+.item_v4{
+    width: 404px;
+    height: 24px;
+    margin-top: 20px;
+    margin-left:4px;
+    font-family: Roboto Flex;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    text-align: left;
+    gap:140px;  
+}
+.View_i{
+  width: 147px;
+  height: 40px;
+  margin-top: 34px;
+  margin-left: 15px;
+  background:  #3772F0;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+.print_i{
+  width: 157px;
+  height: 38px;
+  margin-top: 34px;
+  margin-left: 15px;
+background-color: #2C3E50;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  border-radius: 8px;
+
+  
+}
+.V_items{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.V_image{
+  width: 24.5px;
+  height: 24.99px;
+  margin-top: 1.5px;
+  margin-left: 10.25px;
+
+
+}
+.V_item{
+  width: 147px;
+  height: 40px;
+  margin-top: 34px;
+  margin-left: 15px;
+  background:  #3772F0;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  border-radius: 8px;
+
+}
+.v_txt{
+  font-family: Roboto Flex;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.09px;
+margin-right:auto;
+text-align: left;
+
+color: #F8F8F8;
+}
+
+.imgs{
+  width: 24px;
+height: 24px;
+padding: 1.5px 2.25px 1.5px 2.25px;
+}
+.imgs2{
+  width: 24px;
+height: 24px;
+padding: 1.5px 2.25px 1.5px 2.25px;
+}
+.P_invoice{
+  width: 157px;
+height: 38px;
+margin-top: 22px;
+left: 267px;
+gap: 0px;
+opacity: 0px;
+background:  #2C3E50;
+
+}
+.View_i2{
+  width: 220px;
+  height: 40px;
+  margin-top: 34px;
+  margin-left: 15px;
+  background:  #3772F0;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  border-radius: 8px;
+
+}
+.V_items2{
+  display: flex;
+  justify-content: space-between;
+  }
+  .p_opt{
+    width: 123px;
+height: 19px;
+margin-top: 14px;
+margin-left: 20px;
+
+
+  }
+  .pay_opt{
+    width: 220px;
+    height: 40px;
+    margin-top: 21px;
+    margin-left: 15px;
+    background:   #008001;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    border-radius: 8px;
+  
+  }
+  .pay_opt2{
+    width: 157px;
+    height: 40px;
+    margin-top: 21px;
+    margin-left: 15px;
+    background:   #008001;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    border-radius: 8px;
+  
+  }
+  .pay_txt{
+    font-family: Roboto Flex;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.09px;
+    
+    text-align: left;
+    
+    color: #F8F8F8;
+  }

@@ -1,0 +1,114 @@
+
+
+.logo img{
+        width:110px;
+        height: 110px;
+        /* margin-top: 20px; */
+        margin-left: 73px;
+}
+.Left_sex{
+    background-color:  #F8F8F899;
+width: 255px;
+height: 960px;
+border-radius: 25px, 0px, 0px, 25px;
+
+}
+.flex{
+    display: flex;
+}
+.Dash_img{
+    width: 42px;
+    height: 42px;
+    
+}
+.Dash{
+    margin-top: 20px;
+    width: 156px;
+    height: 42px;
+
+}
+.styles{
+    color: black;
+    text-decoration: none;
+
+}
+.Dash_img img{
+    width: 42px;
+    height:42px;
+   
+}
+.alignMent{
+    align-items: center;
+    text-align: center;
+   
+}
+.Dash_word{
+   text-decoration: none;
+    width: 109px;
+    height: 26px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 25.78px;
+   }
+.Dash_back{
+    background: linear-gradient(90deg, #87449A -8.99%, #F8F8F8 119.43%, #87449A 119.44%);
+    width: 198px;
+    height: 60px;
+    border-top: 150px;
+    margin-left: 29px;
+    border-radius: 12px;
+
+}
+.gap{
+    gap: 10px;
+}
+.Orders{
+    width: 198px;
+    height: 60px;
+    margin-top: 51px;
+     margin-left:41px;
+     list-style: none;
+  
+
+}
+.Orders img{
+    width: 22.5px;
+    height: 22.5px;
+}
+.familys{
+    font-family:"Roboto Flex", sans-serif;
+
+}
+.Oword{
+    /* width: 5px; */
+    height: 21px;
+    font-size: 18px;
+    line-height:21.09px;
+    color:  #62696B;
+    font-weight: 500;
+}
+.Cord{
+width: 198px;
+height: 60px;
+justify-content: center;
+list-style: none;
+margin-top: 10px;
+margin-left: 41px;
+}
+
+.Cord img{
+    width: 22.5px;
+    height: 22.5px;
+}
+.Lout{
+    width: 198px;
+    height: 60px;
+    justify-content: center;
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 41px;
+}
+.Lout img{
+    width: 18px;
+    height: 21fpx;
+}

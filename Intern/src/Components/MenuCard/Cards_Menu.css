@@ -1,0 +1,103 @@
+
+.Card_layout{
+    width: 320px;
+    display: flex;
+gap:60px;
+height: 172px;
+ border-radius: 8px ;  
+margin-top: 41px;
+padding-top: 21px;
+margin-left: 55px;
+background-color: #F8F8F8;
+}
+.card_h1{
+    width: 96px;
+height: 26px;
+font-size: 22px;
+font-weight: 600;
+line-height: 25.78px;
+text-align: left;
+padding-top: 4px;
+margin-left: 15px;
+}
+.card_check{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 15px;
+    font-size: 12px;
+    gap: 10px;
+}
+.veg_img{
+    width: 15px;
+    height: 15px;
+    margin-top: 10px;
+   margin-left: 65px;
+    gap: 0px;
+    opacity: 0px;
+}
+.price_data{
+    margin: 15px 0;
+    
+}
+.p_data{
+    padding-top: 3px;
+    font-size: 12px;
+    padding-left: 55px;
+}
+.Cust_btn{
+    padding-top:10px ;
+    padding-left: 12px;
+    margin-left: 10px;
+    background: #FFD700;
+    width: 64px;
+height: 15px;
+padding-bottom: 5px;
+display: flex;
+font-size: 12px;
+
+border-radius: 8px ;
+
+
+}
+.flexs{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.quantity{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    border-radius: 8px;
+    background-color:  #62696B26;
+    cursor: pointer;
+    
+}
+.btn_less{
+    display: flex;
+align-items: center;
+justify-content: center;
+border-radius: 50%;
+border: 1px transparent;
+background:  #FFD700;
+cursor: pointer;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+}
+.btn_more{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border: 1px transparent;
+    background: #3772F0;
+    cursor: pointer;
+    color: white;
+        width: 20px;
+        height: 20px;
+        padding: 10px;
+}
